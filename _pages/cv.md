@@ -53,8 +53,7 @@ STSI Summer Research Intern, Bridge and Structural Design Lab (June – July 201
   * Utilized patch-wise analysis on large images to locate cracks.
 
 
-5. **Indian Institute of Technology Bombay**
-  * Research Intern, Structural Evaluation and Testing Lab  (Dec 2016 – Jan 2017)
+5. **Indian Institute of Technology Bombay** Research Intern, Structural Evaluation and Testing Lab  (Dec 2016 – Jan 2017)
   * Studied the valorization of Industrial by-products in concrete.
   * Conducted experiments to quantify various properties of concrete and mortar.
 
