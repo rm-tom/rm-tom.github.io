@@ -72,10 +72,19 @@ Publications
   
 Talks
 =====
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+The 34th Magnetic Recording Conference  Minneapolis, MN (Aug 2023)
+* Ballistic Material Transport in HAMR Head-disk interface (Poster)
+
+2023 IEEE International Magnetic Conference Sendai, Japan (May 2023)
+* A Hybrid Simulation for Smear Growth on HAMR Heads  
+* Optical Traps: A hidden factor in HAMR HDI (Poster) 
+
+Advanced Storage Research Consortium (ASRC) Review
+* DSMC Simulation for HAMR Head-disk interface  Virtual (Mar 2020)
+* Laser-induced protrusion and smear transport in HAMR  Virtual (Oct 2021)
+* Effect of smear on HDD slider flying characteristics  Virtual (Apr 2021)
+
+
 Service and leadership
 =====
 * Reviewer for ASME ISPS Conference, 2023
