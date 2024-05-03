@@ -30,7 +30,8 @@ Work experience
 Graduate Student Researcher, Computer Mechanics Lab (Aug 2020 - Present)
   * Conducted Direct Simulation Monte Carlo (DSMC) simulations of air-bearings in Hard drives.
   * Modified open-source code (SPARTA) to include the Consistent Boltzmann Algorithm (CBA).
-  * Developed hybrid numerical technique to study lubricant kinetics by calculating thermophoresis, drag, and lift forces on cyclinderical nanoparticles. And simulated contamination patterns on the head surface of hard disk drives. 
+  * Developed hybrid numerical technique to study lubricant kinetics by calculating thermophoresis, drag, and lift forces on cyclinderical nanoparticles. And simulated contamination patterns on the head surface of hard disk drives.
+  * Conducted FEM simulation of thermal and structural phenomena of nanoscale components of hard drives.
   * Engaged in close collaboration with industry to supplement research.
 
 
@@ -42,7 +43,7 @@ Thermal and Optical Modeling Intern (May – Aug 2022, May – Aug 2023)
   * Studied the drag forces acting on smear nanoparticles in C++.
 
 3. **Indian Institute of Technology Madras**
-Undergraduate Researcher, (Aug 2020 - Present)
+Undergraduate Researcher, (Aug 2018 - May 2019)
   * Developed the form of the constitutive relations for rate-independent dissipative mechanical processes.
   * Compared experimental results with proposed theoretical framework and found errors to be less than 10%.
 
