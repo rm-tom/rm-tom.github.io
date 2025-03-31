@@ -14,7 +14,7 @@ Education
 
 **University of California at Berkeley**
 
-Ph.D in Mechanical Engineering, 2024 (expected)
+Ph.D in Mechanical Engineering, 2024
 * Major Fields: Solid Mechanics, Heat Transfer, Mathematics
 * Thesis: A particle-level analysis of smear buildup in Heat-Assisted Magnetic Recording drives (Chair: Prof. David Bogy)
 * Areas of study: Solid mechanics, atomistic modeling, statistical mechanics, heat transfer, mathematics, machine learning, optical tweezers
@@ -24,10 +24,14 @@ Ph.D in Mechanical Engineering, 2024 (expected)
 Btech (honors) in Civil Engineering, 2019
 * Areas of study: Structural Engg, Geotechnical Engg, Tranportation Systems, Construction Managment, Dynamics, Object Oriented Programming.
 
-Work experience
+Professional experience
 =====
-1. **University of California at Berkeley**
-Graduate Student Researcher, Computer Mechanics Lab (Aug 2020 - Present)
+1. **Western Digital Corporation**
+Staff Engineer, R&D Engineering (Aug 2024 - present)
+  * Researching the interface mechanics of various components in HAMR.
+
+2. **University of California at Berkeley**
+Graduate Student Researcher, Computer Mechanics Lab (Aug 2020 - Aug 2024)
   * Conducted Direct Simulation Monte Carlo (DSMC) simulations of air-bearings in Hard drives.
   * Modified open-source code (SPARTA) to include the Consistent Boltzmann Algorithm (CBA).
   * Developed hybrid numerical technique to study lubricant kinetics by calculating thermophoresis, drag, and lift forces on cyclinderical nanoparticles. And simulated contamination patterns on the head surface of hard disk drives.
@@ -35,26 +39,26 @@ Graduate Student Researcher, Computer Mechanics Lab (Aug 2020 - Present)
   * Engaged in close collaboration with industry to supplement research.
 
 
-2. **Western Digital Corporation**
+3. **Western Digital Corporation**
 Thermal and Optical Modeling Intern (May – Aug 2022, May – Aug 2023)
   * Studied condensation phenomena in high-pressure air-bearings.
   * Used Redlich-Kwong and Peng-Robinson equation of states to conduct vapor-liquid equilibrium of water and compared it against ideal gas law. 
   * Used equations derived from Rayleigh approximation to study optical forces in head-disk interfaces.
   * Studied the drag forces acting on smear nanoparticles in C++.
 
-3. **Indian Institute of Technology Madras**
+4. **Indian Institute of Technology Madras**
 Undergraduate Researcher, (Aug 2018 - May 2019)
   * Developed the form of the constitutive relations for rate-independent dissipative mechanical processes.
   * Compared experimental results with proposed theoretical framework and found errors to be less than 10%.
 
-4. **Hokkaido University**
+5. **Hokkaido University**
 STSI Summer Research Intern, Bridge and Structural Design Lab (June – July 2018)
   * Developed deep learning model to classify cracks on various surfaces. 
   * Used physics informed data augmentation to improve accuracy of CNN model.
   * Utilized patch-wise analysis on large images to locate cracks.
 
 
-5. **Indian Institute of Technology Bombay** Research Intern, Structural Evaluation and Testing Lab  (Dec 2016 – Jan 2017)
+6. **Indian Institute of Technology Bombay** Research Intern, Structural Evaluation and Testing Lab  (Dec 2016 – Jan 2017)
   * Studied the valorization of Industrial by-products in concrete.
   * Conducted experiments to quantify various properties of concrete and mortar.
 
